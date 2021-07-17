@@ -133,7 +133,7 @@ body {
   .content p {
     text-align: center;
   }
-  .content h2 {
+  /* .content h2 {
     font-size: 2rem;
   }
   .content p {
@@ -146,8 +146,8 @@ body {
 
   .content .description {
     font-size: 1.3rem;
-  }
+  } */
   .number-item {
-    padding: 20px;
+    padding: 8px;
   }
 }
