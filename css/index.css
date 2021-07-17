@@ -30,6 +30,7 @@ body {
   overflow: hidden;
   background-color: hsl(244, 38%, 16%);
   width: 65%;
+  height: 50%;
 
   display: flex;
   position: fixed;
